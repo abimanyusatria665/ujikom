@@ -1,0 +1,35 @@
+._nav_brand {
+  font-weight: 800;
+}
+.car-title {
+  font-weight: 700 !important;
+}
+.bg-1 {
+  background-color: #494b57;
+}
+.btn-1 {
+  background-color: #404258;
+  color: white;
+}
+.btn-1:hover {
+  color: white;
+  background-color: #5a5e6d;
+}
+.services:hover {
+  background-color: #404258 !important;
+}
+.icon:hover {
+  background-color: #404258 !important;
+}
+.serizawa > img {
+  border-radius: 20px;
+}
+.bg-2 {
+  background-color: #221f1f;
+}
+.pos {
+  color: black !important;
+}
+form > label {
+  color: white;
+}
